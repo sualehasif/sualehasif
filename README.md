@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @sualehasif
 - 🌱 I’m currently building [cursor](https://cursor.sh) at on [Anysphere](https://anysphere.co).
+- I care about hybrid human-ai engineering productivity.
