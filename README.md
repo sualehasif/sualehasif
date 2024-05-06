@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @sualehasif
-- 🌱 I’m currently working on [Anysphere](https://anysphere.co).
-- 📫 If you would like to collaborate, you can reach me at [sualeh@anysphere.co](mailto:sualeh@anysphere.co)
+- 🌱 I’m currently building cursor.so at on [Anysphere](https://anysphere.co).
