@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @sualehasif
-- 🌱 I’m currently building [cursor](cursor.sh) at on [Anysphere](https://anysphere.co).
+- 🌱 I’m currently building [cursor](https://cursor.sh) at on [Anysphere](https://anysphere.co).
